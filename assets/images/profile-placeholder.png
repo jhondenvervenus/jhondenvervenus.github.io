@@ -1,0 +1,8 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#111827"/>
+  <circle cx="200" cy="150" r="70" stroke="#3b82f6" stroke-width="3" fill="none" opacity="0.6"/>
+  <circle cx="200" cy="150" r="55" fill="#3b82f6" opacity="0.15"/>
+  <path d="M200 350C200 350 130 280 130 210C130 155 175 110 200 110C225 110 270 155 270 210C270 280 200 350 200 350Z" stroke="#8b5cf6" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M200 350C200 350 130 280 130 210C130 155 175 110 200 110C225 110 270 155 270 210C270 280 200 350 200 350Z" fill="#8b5cf6" opacity="0.1"/>
+  <text x="200" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#64748b" text-anchor="middle">Profile Photo Placeholder</text>
+</svg>
